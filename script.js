@@ -84,28 +84,16 @@ P.S. Функции вызывать не обязательно*/
 
 
 
-const arr = [2, 3, 6, 8, 10];
-
-// arr[99] = 0;
-// console.log(arr.length);
-// console.log(arr);
-
-arr.forEach(function(item, i, arr) {
-    console.log(`${i}: inside of the array ${arr}`);
-});
 
 
-// arr.pop();
-// arr.push(10);
 
-for (let i = 0; i <arr.length; i++) {
-    console.log(arr[i]);
-}
 
-for (let value of arr) {
-    console.log(value);
-}
 
+
+
+
+
+// 
 
 
 
